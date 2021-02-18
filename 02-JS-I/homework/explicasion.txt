@@ -1,0 +1,19 @@
+	* Variables: Las varianbles son una manera sensilla de guardar un valor ya sea un numero, una operacion matematica, 
+    un resultado o una palabra o frase.
+
+	* Strings: Es un conjunto de varias letras o incluso de una sola, como lo podria ser la letra a, o la palabra perro.
+
+	* Funciones (argumentos, `return`): Una funcion nos permite utilizar las variables para poder realizar algo con ellas,
+     como lo seria hacer operaciones matematicas o decidir juntar varios string en uno solo, incluso tomar una decision entre
+     hacer una cosa u otra.
+        Argumentos: nos permite decirle a quien va a utilizar esta funcion que deberia utilizar para obtener un resultado
+         de esta.
+        return: nos permite extraer un resultado obtenido dentro de la funcion, sin return no podriamos obtener una respuesta
+        de nuestra funcion.
+
+	* Declaraciones `if`: nos ayuda a decidir si algo es verdadero o falso, y lo que hace es examinar o incluso comparar 
+    algunas variables, con el fin de tomar un camino hacia una respuesta en especifico.
+
+	* Valores booleanos (`true`, `false`): Los booleanos es la manera mas basica que el lenguaje de software nos da una 
+    respuesta ante una pregunta o es la manera en que damos la certeza de que una variable es verdadera o falsa, es muy
+    util a la hora verificar si se cumplen ciertas condiciones necesarias para ejecutar o disparar algun resultado.
