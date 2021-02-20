@@ -1,0 +1,20 @@
+for: Es un bucle o repeticion que hara esto mismo una cantidad de veces mientras cumpla 
+una condicion, requiere 3 parametros que seria, declarar una variable como decir
+simplemente i, luego poner UNA CONDICION que mientras se siga cumpliendo es verdadera,
+y la ultima y no menos importante, un incremento, que basicamente hara que cada vez, que se 
+complete una vuelta, se sume uno a su valor actual, si su condicion se vuelve falsa o ya cumplio
+la condicion hasta serlo, el bucle se rompera y por tanto dejara de seguir a delante.
+
+&&: El doble signo de ampersant  representa una y, lo que basicamente significaria es que dice:
+        si estas dos expresiones son iguales, eso lo hace un dato verdadero, pero si una no es
+        verdad, o las dos no son verdad significa que todo es falso.
+
+||: El doble pippe o "O" para los amigos, seria el equivalente al amigo relajado, que sabe que
+    hay un poco de verdad en las falsedades y un poco de mentira en la verdad y no le importa
+    desde que  todo lo que le digan no sea falso, el determina algo como verdadero si almenos
+    una declaracion es cierta, pero si nota que ambas declaraciones son falsas determinara todo
+    como falso.
+
+!: O NOT para los amigos, es de los que siempre desea pelear, si tu le dices negro es blanco segun el
+    le gusta tanto contradecir, que cuando lo usas al lado de una declaracion que retorne un falso
+    o verdadero, este lo convertira automaticamente a su valor contrario.
