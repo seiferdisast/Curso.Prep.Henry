@@ -1,0 +1,2 @@
+Arrays:Los arrays o matrices son como una caja que dentro contiene objetos 
+en un orden especifico que comienza de la posision cero en adelante.
