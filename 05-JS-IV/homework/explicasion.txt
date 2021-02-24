@@ -1,0 +1,24 @@
+Objetos:son los hermanos perfecccionistas de los arrays o matrices, a diferencia de estos
+    almacenan valores en algo llamado llavez, en las matrices se almacenaban valores en 
+    indices numericos, los objetos pueden almacenar valores como, booleanos, numeros, strings
+    funciones a las cuales podriamos llamar metodos (se explicara mas despues) entre otros.
+
+Propiedades: es un nombre asignado a un valor o basicamente es una llave que nos permite acceder
+    a un valor, podemos referirnos a una propiedad como una cualidad o caracteristica de algo
+    como un objeto, ya antes mencionado.
+
+Métodos:un metodo es una funcion declarada dentro de una clave o valor, y nos permite su
+    ejecucion tras llamar al objeto y luego pedir el valor almacenado dentro de la llave que
+    lo contiene.
+
+Bucle for…in:Un bucle for in es un for, solo que en vez de tener que declarar una variable
+para la cantidad de vueltas mas la condicion y mas el aumento, declaramos una variable con
+cualquier nombre agregamos el in para decirle que busque o liste todo lo que exista dentro del
+objeto que queremos recorrer y el nombre del objeto, esa nueva variable local, cada vuelta
+tomara el valor de las llaves en el orden en que se encuentren.
+
+Notación de puntos vs notación de corchetes:Para gustos colores, en javascript todo es un objeto
+    y al igual que un array que se podria decir que es un objeto con otra forma, podemos acceder
+    a sus valores como lo hariamos con un array con la notacion de corchetes ([]) o con un punto (.)
+    basicamente la unica diferencia, es que en un array solo podemos llamar un valor por su posision 
+    numerica, en un objeto lo hariamos en base a la llave que necesitemos.
