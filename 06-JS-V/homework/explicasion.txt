@@ -1,0 +1,6 @@
+`prototype`:Prototype son propiedades existentes en cada cosa creada en javascript dado que 
+es un lenguaje basado en prototipos.
+
+_Constructors_ (de Clases):Crea reglas de contruccion para una clase o molde, ejemplo
+la clase pan, estrictamente requiere, arina y agua, para ser un pan, aqui estoy condicionando
+que el pan sin agua o harina no se puede hacer.
