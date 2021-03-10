@@ -247,6 +247,12 @@ function continueStatement(numero) {
 // No modificar nada debajo de esta línea
 // --------------------------------
 
+if(){
+  for(){
+    
+  }
+}
+
 module.exports = {
   devolverPrimerElemento,
   devolverUltimoElemento,
