@@ -1,0 +1,176 @@
+html {
+  background: rgb(248, 3, 3) url('../img/uroboro.png') right top / 700px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 150% -10%;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0px;
+}
+
+#dis {
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-right: 0px;
+}
+
+header {
+  height: 80px;
+  width: 100%;
+  left: 0;
+  top: 0;
+  /*   position: fixed; */
+  text-shadow: -4px 3px 7px rgb(247 247 247);
+  background: linear-gradient(
+    142deg,
+    rgba(2, 0, 36, 1) 2%,
+    rgba(57, 7, 217, 0.3799894957983193) 33%,
+    rgba(0, 212, 255, 0) 97%
+  );
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* #headery {
+  background: #333;
+  color: white;
+  height: 80px;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+} */
+
+.icone {
+  margin: 5px;
+  font-size: x-large;
+  color: blueviolet;
+}
+
+.icone:hover {
+  color: yellow;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+
+.highlight {
+  background: linear-gradient(
+    142deg,
+    transparent 2%,
+    rgba(195, 192, 206, 3) 33%,
+    transparent 97%
+  );
+  padding: 40px 35px;
+  margin-bottom: 10px;
+  position: relative;
+  margin: auto;
+  border-top-right-radius: 15px;
+}
+
+#im {
+  background-image: url('../img/rockStar.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 130%;
+  border-bottom-left-radius: 60%;
+}
+
+.classie {
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
+  margin: 20px;
+}
+
+.boxlight {
+  background: linear-gradient(
+    142deg,
+    transparent 2%,
+    rgba(195, 192, 206, 3) 33%,
+    transparent 97%
+  );
+  padding: 0px 35px;
+  position: relative;
+  -webkit-border-radius: 1em;
+  padding-bottom: 30px;
+}
+
+div > .igor {
+  border: solid black;
+  border-collapse: separate;
+  padding: 10px 10px;
+  background-color: rgb(106, 35, 172);
+  -webkit-border-radius: 1em;
+}
+
+.studyPanel {
+  background: linear-gradient(
+    142deg,
+    transparent 2%,
+    rgba(195, 192, 206, 3) 33%,
+    transparent 97%
+  );
+  padding: 40px 35px;
+  border-top-right-radius: 100px;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  position: relative;
+  left: -50px;
+}
+
+.studyPanel:before {
+  font-family: 'FontAwesome';
+  content: '\f2be';
+  position: relative;
+  top: 0;
+  font-size: 70px;
+  height: 70px;
+  width: 70px;
+  text-align: center;
+  background: rgb(106, 35, 172);
+  border-radius: 50%;
+  top: -65px;
+  left: 58%;
+  margin-left: -50px;
+}
+
+.verti {
+  display: flex;
+  flex-direction: column;
+}
+
+.ligt:hover {
+  text-shadow: -4px 3px 7px rgb(247 247 247);
+}
+
+.footer {
+  margin-top: 40px;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  /*   background-repeat: no-repeat; */
+  backdrop-filter: blur(5px);
+  text-align: center;
+}
+
+.subhighlight {
+  background-color: transparent;
+  margin: 40px;
+}
